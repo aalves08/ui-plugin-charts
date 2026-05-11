@@ -2,7 +2,7 @@
 
 **Collects and analyzes cluster data for supportability assessment.**
 
-### Overview
+### Vision & Value
 The SUSE Supportability Review (SR) extension is a proactive diagnostic suite. It ensures your clusters are "Support-Ready" by auditing them against the SUSE Support Matrix and best practices, preventing configuration-related downtime before it happens.
 
 ### Core Architecture
@@ -20,3 +20,6 @@ This tool runs non-invasive scanners (using the SURE engine) across your managem
 
 ### Deployment Path
 * **First Step**: Click the **SUSE Supportability Review** sidebar item and select **Run New Review** to generate your first report.
+
+### Documentation
+Documentation for SUSE Observability can be found [here](https://support.scc.suse.com/s/kb/Rancher-Supportability-Review-FAQ).

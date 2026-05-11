@@ -2,7 +2,7 @@
 
 **Provisions and isolates lightweight K3s clusters within shared environments for multi-tenancy.**
 
-### Overview
+### Vision & Value
 SUSE Virtual Clusters solve the "Cluster Sprawl" problem. Instead of provisioning 50 heavy, expensive cloud clusters for 50 developers, you can spin up 50 virtual K3s clusters inside a single "Host" cluster. This provides full API isolation at a fraction of the infrastructure cost.
 
 ### Core Architecture
@@ -21,3 +21,6 @@ K3k (Kubernetes-in-Kubernetes) runs a K3s control plane as a set of Pods within 
 ### Deployment Path
 * **Prerequisites**: Rancher Prime subscription; a host cluster with sufficient capacity (RKE2 or K3s).
 * **First Step**: Navigate to **SUSE Virtual Clusters** in the sidebar and click **Create** to deploy your first K3k instance.
+
+### Documentation
+Documentation for SUSE Observability can be found [here](https://documentation.suse.com/cloudnative/suse-virtual-clusters/latest/en/introduction.html).
